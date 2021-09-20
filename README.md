@@ -5,22 +5,21 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cotex05&label=Profile+Views&color=green&style=plastic%22%20alt=%22Cotex05" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NavidulHaque&label=Profile+Views&color=green&style=plastic%22%20alt=%22NavidulHaque" /> </p>
 
-#### This is Md Faisal Farooquee. I am in 3rd year, pursued B.Tech in the department of Information Technology.
-#### I used to develop cross platform react native applications. I am also interested in machine learning and Artificial Intelligence, and love to work on projects based on Artificial Intelligence and deep neural networks with tensorflow. 
+#### This is Navidul Haque. I am in 3rd year, pursued B.Tech in the department of Information Technology.
+#### I used to develop cross platform Flutter applications. I am also interested in machine learning and Artificial Intelligence, and love to work on projects based on Artificial Intelligence and deep neural networks with tensorflow. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cotex05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cotex05&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=NavidulHaque&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHaque&layout=compact&theme=tokyonight">
 
 ### Interests
 
 <img align="right" alt="GIF" src="https://imgshare.io/images/2021/09/10/download.gif" width="400" height="200" />
 
 * Machine Learning Enthusiast
-* Passionate for Competitive Programming (3⭐(max-rating: 1745) on codechef) [see profile](https://www.codechef.com/users/faisal_5/)
-* Secondary interest in Ethical Hacking and Cyber Security, beginner in tryhackme. [see profile](https://tryhackme.com/p/Butye)
-* <img width="249" height="58" src="https://imgshare.io/images/2021/09/10/Butye.png" alt="TryHackMe" />
+* Flutter Developer
+* Passionate for Competitive Programming (3⭐(max-rating: 1763) on codechef) [see profile](https://www.codechef.com/users/navidulhaque/)
 
 
 #### Profiles

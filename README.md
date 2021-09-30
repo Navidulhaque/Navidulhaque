@@ -19,7 +19,7 @@
 
 * Machine Learning Enthusiast
 * Flutter Developer
-* Passionate for Competitive Programming (3⭐(max-rating: 1763) on codechef) [see profile](https://www.codechef.com/users/navidulhaque/)
+* Passionate for Competitive Programming (3⭐(max-rating: 1778) on codechef) [see profile](https://www.codechef.com/users/navidulhaque/)
 
 
 #### Profiles

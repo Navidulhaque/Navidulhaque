@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavidulHaque&label=Profile+Views&color=green&style=plastic%22%20alt=%22NavidulHaque" /> </p>
 
 #### This is Navidul Haque. I am in 3rd year, pursued B.Tech in the department of Information Technology.
-#### I used to develop cross platform Flutter applications. I am also interested in machine learning and Artificial Intelligence, and love to work on projects based on Artificial Intelligence and deep neural networks with tensorflow. 
+#### I develop cross platform Flutter applications. I am also interested in machine learning and Artificial Intelligence, and love to work on projects based on Artificial Intelligence and deep neural networks with tensorflow. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=NavidulHaque&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavidulHaque&layout=compact&theme=tokyonight">

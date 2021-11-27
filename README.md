@@ -15,8 +15,7 @@
 
 ### Interests
 
-<img align="right" alt="GIF" src="https://imgshare.io/images/2021/09/10/download.gif" width="400" height="200" />
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58352541/143668696-6ad3889e-bdf9-428b-8200-dad9388b101c.gif" width="300" height="200" />
 * Machine Learning Enthusiast
 * Flutter Developer
 * Passionate for Competitive Programming (3⭐(max-rating: 1778) on codechef) [see profile](https://www.codechef.com/users/navidulhaque/)
@@ -73,7 +72,7 @@ Then paste the links along with the alt text. (optional)
 </div>
 
 <!--
-**Cotex05/Cotex05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**navidulhaque/NavidulHaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

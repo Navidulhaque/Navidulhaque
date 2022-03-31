@@ -16,7 +16,6 @@
 ### Interests
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58352541/143668696-6ad3889e-bdf9-428b-8200-dad9388b101c.gif" width="300" height="200" />
-* Machine Learning Enthusiast
 * Flutter Developer
 * Passionate for Competitive Programming (4⭐ on codechef) [Codechef](https://www.codechef.com/users/navidulhaque/)
 * Pupil on codeforces [Codeforces](https://codeforces.com/profile/navidul)
